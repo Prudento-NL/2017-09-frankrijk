@@ -1,0 +1,33 @@
+Blog
+
+- Site: https://prudento-nl.github.io/2017-09-frankrijk/
+- GitHub posts: https://github.com/Prudento-NL/2017-09-frankrijk/tree/master/_posts
+----------
+
+Format posts
+---
+layout: post
+title: Het aftellen is begonnen!
+date: 2017-08-20 17:00:00
+---
+Tekst
+
+----------
+
+Format file name
+
+- YEAR-MONTH-DAY-title.MARKUP
+- 2011-12-31-new-years-eve-is-awesome.md
+----------
+
+Format links
+
+- In de tekst de verwijzing tussen rechte haken:
+  [Jekyll] is een open source, blog-aware,
+- Onder aan de tekst de verwijzing met de link naar de site
+  [Jekyll]: http://jekyllrb.com/
+----------
+
+Referenties
+
+- Markdown (GFM): https://guides.github.com/features/mastering-markdown/
