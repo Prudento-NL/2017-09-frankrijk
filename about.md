@@ -3,13 +3,9 @@ layout: page
 title: About
 ---
 
-This is an about page about this awesome site.
-Hope you love it!
+Deze site is speciaal aangemaakt om verslag te kunnen doen van de reis langs de Franse westkust.
+We (Sophia en Kees) trekken langs verschillende campings en vermijden zoveel mogelijk de snelwegen.
 
-Reasons:
-- its great.
-- its a test.
-
-## Other thoughts
-
-This is great.
+**Uitrusting:**
+- Tent: Karsten Carp 220 met comfortluifel
+- Auto: Subaru XV
