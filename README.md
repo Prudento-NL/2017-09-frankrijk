@@ -1,3 +1,3 @@
-# 2017-template-bare
-Template based on the workshop from evanwill:
-https://evanwill.github.io/go-go-ghpages/
+# Kampeervakantie September 2017
+In deze blog een verslag van de reis langs verschillende campings langs de westkust van Frankrijk.
+We zijn met een kleine tent rondgetrokken en hebben verschillende campings bezocht.
