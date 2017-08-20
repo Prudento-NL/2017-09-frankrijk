@@ -1,8 +1,5 @@
 # basic options
-title: Kampeervakantie September 2017
-description: Blog van de kampeervakantie langs de Franse kust.
-twitter_username: jekyllrb
-github_username:  jekyll
+# Deleted
 
 # Build settings
 markdown: kramdown
