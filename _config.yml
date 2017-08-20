@@ -1,8 +1,7 @@
 # basic options
 title: Vakantie September 2017
 author: Teksten geschreven door Kees
-email: Website gemaakt door Kees
-description: Verslag van de vakantie
+description: Website gemaakt door Kees
 
 # Build settings
 markdown: kramdown
