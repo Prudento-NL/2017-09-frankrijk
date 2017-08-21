@@ -1,10 +1,9 @@
-Blog
-
+>>>>>>>>>>> Kopie op Dropbox paper <<<<<<<<<<<
+===== Blog =====
 - Site: https://prudento-nl.github.io/2017-09-frankrijk/
 - GitHub posts: https://github.com/Prudento-NL/2017-09-frankrijk/tree/master/_posts
-----------
 
-Format posts
+===== Format posts =====
 ---
 layout: post
 title: Het aftellen is begonnen!
@@ -12,22 +11,40 @@ date: 2017-08-20 17:00:00
 ---
 Tekst
 
-----------
-
-Format file name
-
+===== Format file name =====
 - YEAR-MONTH-DAY-title.MARKUP
 - 2011-12-31-new-years-eve-is-awesome.md
-----------
 
-Format links
+===== URL =====
+Indien verwezen wordt naar directories waarin documenten ofimages staan.
+Toevoegen in _config.yml
+- url: https://prudento-nl.github.io/test
 
-- In de tekst de verwijzing tussen rechte haken:
-  [Jekyll] is een open source, blog-aware,
-- Onder aan de tekst de verwijzing met de link naar de site
-  [Jekyll]: http://jekyllrb.com/
-----------
+===== Comments =====
+<!--- commentaar --->
 
-Referenties
+===== Links =====
+- alles in de tekst
+  [Jekyll](http://jekyllrb.com/) 
+- In de tekst de verwijzing tussen rechte haken en onderaan de blog de verwijzing zoals in Jekyll WERKT NIET IN GITHUB.
+
+===== Images =====
+Maak een directory voor de images. LET OP! De URL moet toegevoegd worden aan_config.yml.
+- Image uit een directory bijvoorbeeld ‘Images’:
+  ![Je eigen tekst]({{ site.url }}/directory/filenaam.jpg)
+  Voorbeeld ![Dulfer]({{ site.url }}/images/dulfer.jpg)
+- Image op een website:
+  ![Je eigen tekst](Hyperlink)
+  Voorbeeld ![Mickey](https://forum.nl.forgeofempires.com/index.php?attachments/glitter_krabbel_plaatje_003-gif.881/)
+  
+===== Image & Link =====
+
+TODO check werking
+In de preview werkt het, maar via de hosted site, werkt het niet<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<a href="http://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/">
+  <img src="/images/posts/2016-11-10/breaches.png">
+</a>
+
+===== Referenties =====
 
 - Markdown (GFM): https://guides.github.com/features/mastering-markdown/
