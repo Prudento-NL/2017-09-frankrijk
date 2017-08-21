@@ -12,4 +12,4 @@ De oppas voor de katten is geregeld.
 
 Nog even een paar dagen werken en dan inpakken en wegwezen.
 
-## 1 september vertrekken we richting Frankrijk.
+## 1 september vertrekken we richting [Frankrijk](https://www.landenweb.nl/frankrijk/).
