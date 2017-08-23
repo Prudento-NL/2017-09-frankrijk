@@ -44,7 +44,7 @@ Maak een directory voor de images. LET OP! De URL moet toegevoegd worden aan_con
 - https://github.com/Prudento-NL/test/blob/master/images/mickey.jpg?raw=true
 - Plak de volledige link in het deel waar het plaatje staat (achter img src)
   <a href="http://www.prudento.nl/">
-    <img src="https://github.com/Prudento-NL/test/blob/master/images/mickey.jpg?jpg=true">
+    <img src="https://github.com/Prudento-NL/test/blob/master/images/mickey.jpg?raw=true">
   </a>
 
 ===== Image met link naar een externe locatie  ======
