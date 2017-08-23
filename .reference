@@ -37,12 +37,19 @@ Maak een directory voor de images. LET OP! De URL moet toegevoegd worden aan_con
   ![Je eigen tekst](Hyperlink)
   Voorbeeld ![Mickey](https://forum.nl.forgeofempires.com/index.php?attachments/glitter_krabbel_plaatje_003-gif.881/)
   
-===== Image & Link =====
+===== Image met link naar eigen directory =====
+- Ga naar de Image folder
+- Klik op het gewenste bestand >> Het plaatje opent.
+- Links klik op het plaatje en kopieer de link (copy image address)
+- https://github.com/Prudento-NL/test/blob/master/images/mickey.jpg?raw=true
+- Plak de volledige link in het deel waar het plaatje staat (achter img src)
+  <a href="http://www.prudento.nl/">
+    <img src="https://github.com/Prudento-NL/test/blob/master/images/mickey.jpg?jpg=true">
+  </a>
 
-TODO check werking
-In de preview werkt het, maar via de hosted site, werkt het niet<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<a href="http://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/">
-  <img src="/images/posts/2016-11-10/breaches.png">
+===== Image met link naar een externe locatie  ======
+<a href="https://meta.stackoverflow.com/users/44330/jason-s">
+ <img src="https://www.gravatar.com/avatar/dd5a7ef1476fb01998a215b1642dfd07?s=128&d=identicon&r=PG">
 </a>
 
 ===== Referenties =====
