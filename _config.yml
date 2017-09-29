@@ -7,3 +7,6 @@ URL: "https://prudento-nl.github.io/2017-09-frankrijk"
 # Build settings
 markdown: kramdown
 theme: minima
+
+plugins:
+  - jekyll-feed
