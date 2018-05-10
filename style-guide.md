@@ -16,27 +16,32 @@ Tekst
 - 2011-12-31-new-years-eve-is-awesome.md
 
 ===== URL =====
-Indien verwezen wordt naar directories waarin documenten ofimages staan.
+Indien verwezen wordt naar directories waarin documenten of images staan.
 Toevoegen in _config.yml
-- url: https://prudento-nl.github.io/test
+URL: "https://prudento-nl.github.io/2017-09-frankrijk"
+images: "https://prudento-nl.github.io/2017-09-frankrijk/images"
 
 ===== Comments =====
 <!--- commentaar --->
 
 ===== Links =====
 - alles in de tekst
-  [Jekyll](http://jekyllrb.com/) 
+  [Jekyll](http://jekyllrb.com/)
 - In de tekst de verwijzing tussen rechte haken en onderaan de blog de verwijzing zoals in Jekyll WERKT NIET IN GITHUB.
 
 ===== Images =====
 Maak een directory voor de images. LET OP! De URL moet toegevoegd worden aan_config.yml.
+
+> > > > > > DIT WERKT:
+![Kasteel]({{ site.images }}/dag7.jpg?raw=true)
+--------------------------------------------
 - Image uit een directory bijvoorbeeld ‘Images’:
   ![Je eigen tekst]({{ site.url }}/directory/filenaam.jpg)
   Voorbeeld ![Dulfer]({{ site.url }}/images/dulfer.jpg)
 - Image op een website:
   ![Je eigen tekst](Hyperlink)
   Voorbeeld ![Mickey](https://forum.nl.forgeofempires.com/index.php?attachments/glitter_krabbel_plaatje_003-gif.881/)
-  
+
 ===== Image met link naar eigen directory =====
 - Ga naar de Image folder
 - Klik op het gewenste bestand >> Het plaatje opent.
