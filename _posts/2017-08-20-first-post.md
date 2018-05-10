@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Het aftellen is begonnen!
-date: 2017-08-20 17:00:00
+date: 2017-08-20
 ---
 
 # We zijn er klaar voor!
