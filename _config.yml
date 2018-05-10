@@ -8,3 +8,7 @@ images: "https://prudento-nl.github.io/2017-09-frankrijk/images"
 # Build settings
 markdown: kramdown
 theme: minima
+
+# date format posts
+minima:
+  date_format: "%d-%m-%Y"
